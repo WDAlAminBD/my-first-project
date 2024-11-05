@@ -1,0 +1,331 @@
+body{
+    font-family: "Rubik", sans-serif;
+}
+.section-one{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding: 3%;
+}
+.bg-one{
+    background-color: rgb(205, 243, 214);
+    margin-left: 5%;
+    margin: 0%;
+    background-size: 50%;
+    
+}
+section{
+    height: 400px;
+    padding-bottom: 100px;
+    margin: 0%;
+}
+#photo{
+    height: 40px;
+    width: 130px;
+    margin: 2px 200px 30px 10px;
+    padding: 5px 200px 50px 2px;
+    
+}
+#photo-2{
+    height: 250px;
+    width: 400px;
+    margin: 50px;
+}
+#b{
+    width: 57px;
+    height: 34px;
+    top: 30px;
+    left: 835px;
+    gap: 10px;
+    padding: 0px 30px 0px 60px;
+}
+#o{
+    width: 57px;
+    height: 34px;
+    top: 3opx;
+    left: 1100px;
+    gap: 10px;
+    padding: 20px;
+}
+#c{
+    width: 57px;
+    height: 34px;
+    top: 3opx;
+    left: 950px;
+    gap: 20px;
+    padding: 20px;
+}
+#bl{
+    width: 57px;
+    height: 34px;
+    top: 3opx;
+    left: 1200px;
+    gap: 20px;
+    padding: 20px;
+}
+#s{ width: 57px;
+    height: 34px;
+    top: 3opx;
+    left: 1500px;
+    gap: 10px;
+    padding: 200px;
+
+}
+#are{
+    color: red;
+}
+.any{
+    color: rgb(50, 16, 242);
+}
+.get{
+    background-color: rgb(9, 180, 9);
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 8px;        
+}   
+#books{
+    height: 2px;
+    width: 2px;
+}
+.p-1{
+    width: 50px;
+    height: 50px;
+    top: 3opx;
+    padding: 20px;
+}
+.p-2{
+    width: 50px;
+    height: 50px;
+    top: 3opx;
+    padding: 50px;
+}
+
+
+.photo-frame{
+    height: 260px;
+    width: 200px;
+   box-shadow: 10px 20px 10px 10px gray;
+    border-radius: 10px;
+    margin-top: 80px;
+    position: absolute;
+    margin-left: 90px;
+    background-color: rgb(23, 185, 185);
+    
+}
+.photo-frame .photo img{
+    width: 30%;
+    padding:30px 55px ;
+    text-align: center;
+   
+}
+.book-detail{
+    text-align: center;
+}
+.container{
+    display: flex;
+    position: relative;
+    
+}
+.photo-frame-1{
+    height: 260px;
+    width: 200px;
+   box-shadow: 10px 20px 10px 10px gray;
+    border-radius: 10px;
+    margin-top: 80px;
+    position: absolute;
+    margin-left: 380px;
+    background-color: rgb(23, 185, 185);
+    
+}
+.photo-frame-1 .photo img{
+    width: 35%;
+    padding:30px 50px ;
+    text-align: center;
+   
+}
+.photo-frame-2{
+    height: 260px;
+    width: 200px;
+   box-shadow: 10px 20px 10px 10px gray;
+    border-radius: 10px;
+    margin-top: 80px;
+    margin-left: 690px;
+    position: absolute;
+    background-color:  rgb(23, 185, 185);
+}
+.photo-frame-2 .photo img{
+    width: 35%;
+    padding:30px 50px ;
+    text-align: center;
+   
+}
+.photo-frame-3{
+    height: 260px;
+    width: 200px;
+   box-shadow: 10px 20px 10px 10px gray;
+    border-radius: 10px;
+    margin-top: 80px;
+    margin-left: 980px;
+    position: absolute;
+    background-color:  rgb(23, 185, 185);
+    
+}
+.photo-frame-3 .photo img{
+    width: 35%;
+    padding:30px 50px ;
+    text-align: center;
+   
+} 
+.online{
+    text-align: center;
+    top: 0;
+}
+.container-2{
+    position: relative;
+}
+.image-frame{
+    height: 380px;
+    width: 300px;
+    box-shadow: 5px 5px 15px rgb(114, 110, 110);
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.image-frame-1{
+    height: 380px;
+    width: 300px;
+    box-shadow: 5px 5px 15px rgb(114, 110, 110);
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 460px;
+    position: absolute;
+}
+.image-frame-2{
+    height: 380px;
+    width: 300px;
+    box-shadow: 5px 5px 15px rgb(114, 110, 110);
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 850px;
+    position: absolute;
+}
+.image-frame .image img{
+    width: 90%;
+    padding: 9px 13px;
+}
+.image-frame-2 .image img{
+    width: 90%;
+    padding: 9px 13px;
+}
+.image-frame-1 .image img{
+    width: 90%;
+    padding: 9px 13px;
+}
+.image-detail{
+    padding: 7px 12px;
+}
+#button{
+    background-color: rgb(3, 200, 3);
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 5px 5px;
+    color: white;
+    font-size: 15px;
+}
+#left{
+    font-size: 15px;
+    margin-left: 0;
+}
+#right{
+    margin-right: 0;
+    font-size:15px ;
+}
+.container-2{
+    display: flex;
+}
+.testimonial{
+    height: 80px;
+    width: 80px;
+}
+.testimonial .tphoto img{
+    width: 100%;
+    margin-top: 85px;
+    margin-left: 370px;
+}
+.section-3{
+    display: flex;
+    height: 250px;
+    margin: 0;
+}
+.man-detail{
+    height: 20px;
+    width: 650px;
+    margin-top: 80px;
+    margin-left: 400px;
+}
+#tes{
+    text-align: center;
+    background-color: rgb(12, 178, 12);
+    border-radius: 10px;
+}
+.bottom-1{
+  height: 250px;
+  width: 500px;
+    display: flex;
+ 
+    color: white;text-align: center;
+    position: absolute;
+    text-align: center;
+    top: 20px;
+    left: 50px;
+ 
+}
+.bottom-2{
+    height: 250px;
+    width: 200px;
+      display: flex;
+    
+      color: white;
+    
+      position:absolute;
+      margin-top: 20px;
+      margin-left: 600px;
+      text-align: center;
+    }
+    .bottom-3{
+         height: 250px;
+         width: 200px;
+          display: flex;
+        
+          color: white;
+          
+          margin-top: 20px;
+          margin-left: 800px;
+        position: absolute;
+        text-align: center;
+    }
+        .bottom-4{
+             height: 250px;
+             width: 200px;
+ 
+              color: white;
+              margin-top: 20px;
+              margin-left: 1000px;
+            position: absolute;
+            text-align: center;
+            }
+.last{
+    display: flex;
+}
+.section-last{
+    background-color: rgb(54, 3, 3);
+    position: relative;
+}
+#end{
+    text-align: center;
+    color: white;
+   margin: 430px 500px;
+ 
+}
